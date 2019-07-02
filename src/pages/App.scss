@@ -1,0 +1,22 @@
+/* 'Pantone': {
+  100: '#FFF1EF',
+  200: '#FFDBD8',
+  300: '#FFC5C0',
+  400: '#FF9A90',
+  500: '#FF6F61',
+  600: '#E66457',
+  700: '#99433A',
+  800: '#73322C',
+  900: '#4D211D',
+  #0a0a0aea
+  }, */
+
+.App-header {
+  background-color: #ff6f61;
+  min-height: 8vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #0a0a0aea;
+}
